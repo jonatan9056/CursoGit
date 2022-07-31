@@ -1,0 +1,20 @@
+body {
+    background-color: violet;
+    color: aliceblue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+    color: tomato;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 5em;
+    text-shadow: 10px 10px 20px black;
+}
+
+p {
+    color: green;
+    font-size: 2em;
+    text-shadow: 3px 1px 5px gainsboro;
+
+}
